@@ -1,0 +1,1 @@
+export const customersList = import.meta.env.VITE_APP_API_USERS
